@@ -9,7 +9,7 @@ Dataset used in this project is taken from Kaggle with a total of 7043 entries a
 ![image](https://github.com/user-attachments/assets/52ab29ce-1167-457b-954b-86e1d6fc9cce)
 
 ## Analysis
-So far, there's no missing value in our dataset and from what we see, most columns are object type and the column customerID will be drop out since it's not useful in our modelling. 
+So far, there's no missing value in our dataset and from what we see, most columns are object type and the column customerID will be dropped out since it's not useful in our modelling. 
 
 ### EDA
 Next, we will do some analysis on our data.
